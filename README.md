@@ -15,6 +15,3 @@ b) Instalar una nueva versión de Unity y añadir el módulo Visual Studio.
 
 c) Iniciar sesión o crear una nueva ID de Unity.
 
-# Errores detectados Practica 1:
-
-1. El script de referencia de la camara principal esta desaparecido -> No se puede realizar el paso 5, iniciar el juego
