@@ -25,3 +25,29 @@
   Paso 4. Añadir resultados de colision del vehículo con los objetos.
   
   Paso 5. Duplicar y posicionar obstaculos.
+
+3. High Speed Chase
+
+  Paso 1. Añadir una variable de velocidad al vehículo.
+  
+  Paso 2. Crear un nuevo script para la camara.
+  
+  Paso 3. Añadir un offset a la posición de la cámara.
+  
+  Paso 4. Transformar el offset en una variable vector 3D.
+  
+  Paso 5. Smooth the Camera with LakeUpdate.
+  
+  Paso 6. Edit the playmode tint color.
+
+4. Step into the Driver's Seat
+
+  Paso 1. Allow the vehicle to move left/right
+  
+  Paso 2. Base left/right movement input.
+  
+  Paso 3. Take control of the vehicle speed.
+  
+  Paso 4. Make vehicle rotate instead of slide.
+  
+  Paso 5. Clean your code and hiperarchy.
