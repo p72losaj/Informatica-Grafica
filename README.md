@@ -15,3 +15,6 @@ b) Instalar una nueva versión de Unity y añadir el módulo Visual Studio.
 
 c) Iniciar sesión o crear una nueva ID de Unity.
 
+2. Enlaces de interés:
+
+  a) https://medium.com/@yonem9/unity-creando-un-juego-2d-de-naves-da26fc335d4c
