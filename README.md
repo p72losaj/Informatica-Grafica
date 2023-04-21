@@ -37,7 +37,9 @@ c) Iniciar sesión o crear una nueva ID de Unity.
   
   Modos de juego -> https://drive.google.com/file/d/1Ik-8UfwNgP0Pcc73_zo1SUjosEodfZ_y/view?usp=share_link
   
-  Gameplay 1 -> https://drive.google.com/file/d/1nTfx0dYmWDKS1QBsu-nkqookgvprJDFG/view?usp=share_link
+  Gameplay. Graphics I -> https://drive.google.com/file/d/1nTfx0dYmWDKS1QBsu-nkqookgvprJDFG/view?usp=share_link
+  
+  Gameplay. Graphics II -> https://drive.google.com/file/d/1JlRINAkPJ3s8dklLid3EjqcJ95I8EziA/view?usp=share_link
   
   Antecedentes -> https://drive.google.com/file/d/1FcbrxuTWWcbU3jZqZOaOp8Su8SnuFkWb/view?usp=share_link
   
