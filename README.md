@@ -47,4 +47,5 @@ c) Iniciar sesión o crear una nueva ID de Unity.
   
   Analisis Social -> https://drive.google.com/file/d/1sPLVeCT1IYaMSVjC1Ze7XtPN1hulJFDY/view?usp=share_link
   
+  Diseño Niveles -> https://drive.google.com/file/d/1NMHIutHpOzFxCa-p8XTOnGxvtMPwnyfP/view?usp=sharing
   
