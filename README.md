@@ -53,3 +53,5 @@ c) Iniciar sesión o crear una nueva ID de Unity.
   
   Animaciones -> https://drive.google.com/file/d/1tpyb0wLe6SpuLMR4OFEBHsatK3A9-KVj/view?usp=sharing
   
+  Pulido -> https://drive.google.com/file/d/1Ez-liSxJz9n6_krLw6ChphuhhOG9mUcV/view?usp=sharing
+  
