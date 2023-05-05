@@ -49,3 +49,5 @@ c) Iniciar sesión o crear una nueva ID de Unity.
   
   Diseño Niveles -> https://drive.google.com/file/d/1NMHIutHpOzFxCa-p8XTOnGxvtMPwnyfP/view?usp=sharing
   
+  Animaciones -> https://drive.google.com/file/d/1tpyb0wLe6SpuLMR4OFEBHsatK3A9-KVj/view?usp=sharing
+  
