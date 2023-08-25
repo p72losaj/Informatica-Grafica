@@ -1,12 +1,5 @@
 # Informatica-Grafica
 
-# Profesor
-
-1. Nombre Completo: Prof. Dr. Enrique Yeguas Bolívar
-2. Correo electronico: eyeguas@uco.es
-
-# UNITY
-
 Para la realización de las prácticas, es necesario primero realizar las siguientes instalaciones:
 
 1. Descargar e instalar Unity Hub
