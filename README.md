@@ -50,4 +50,4 @@ c) Iniciar sesión o crear una nueva ID de Unity.
   
   # Fly and boxes
   
-  Se ha añadido a google drive debido a un tamaó de archivo demasiado grande. Link: https://drive.google.com/file/d/1ULBOR5aWdbnBDg6JypUoali7oX2Y4ctS/view?usp=sharing
+  Se ha añadido a google drive debido a un tamaño de archivo demasiado grande. Link: https://drive.google.com/file/d/1ULBOR5aWdbnBDg6JypUoali7oX2Y4ctS/view?usp=sharing
